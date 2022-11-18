@@ -1,14 +1,9 @@
-.navbar {
-	background-color: rgb(116, 196, 190)!important;
-}
-.footer {
-		background-color: rgb(228, 228, 228) !important;
-}
 
 img {
-	object-fit: cover;
+	object-fit: cover!important;
 }
 
-a {
-	color: white!important;
+
+.dropdown-item {
+	color: black!important;
 }
