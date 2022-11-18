@@ -1,9 +1,7 @@
+#nav {
+	background-color: rgb(246, 255, 73);
+}
 
 img {
 	object-fit: cover!important;
-}
-
-
-.dropdown-item {
-	color: black!important;
 }
