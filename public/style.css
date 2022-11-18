@@ -1,0 +1,14 @@
+.navbar {
+	background-color: rgb(116, 196, 190)!important;
+}
+.footer {
+		background-color: rgb(228, 228, 228) !important;
+}
+
+img {
+	object-fit: cover;
+}
+
+a {
+	color: white!important;
+}
